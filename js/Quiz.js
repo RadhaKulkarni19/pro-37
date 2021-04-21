@@ -42,7 +42,7 @@ class Quiz {
 
     //write condition to check if contestantInfor is not undefined
     if (allContestants !== undefined) {
-      var display_answers = 230
+      var display_Answers = 230
       fill("blue")
       textSize(20)
       text("*NOTE: Contestant who answered correct are highlighted in green color!", 130, 230);
